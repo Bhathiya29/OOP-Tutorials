@@ -13,8 +13,5 @@ public class Array {
             System.out.println(items[i]);
         }
     }
-    public void insert(int num){
-        items[count]=num;
-        count++;
-    }
+   
 }
